@@ -11,6 +11,6 @@ function writeCards(name, giftType){
 function countDown(num){
   let counter=0;
 while(counter < num)
-counter -= 1;
 console.log(`num[counter]`);
+counter -= 1;
 }
