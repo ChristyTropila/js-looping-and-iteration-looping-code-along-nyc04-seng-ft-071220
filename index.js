@@ -14,5 +14,3 @@ while(count < num)
 counter -= 1;
 console.log(`num[counter]`);
 }
-
-
