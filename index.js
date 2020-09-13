@@ -1,9 +1,8 @@
 // Code your solutions in this file
-const gifts = ["teddy bear", "drone", "doll"];
+const name=["Ada", "Brendan", "Ali"]
 
 function writeCards(name, giftType){
   for(let i=0; i<name.length; i++){
-  thankYou=console.log(`Thank you, ${name[i]}, for the wonderful ${giftType} gift!`)
+  console.log(`Thank you, ${name[i]}, for the wonderful ${giftType} gift!`)
   }
-  return thankYou;
 }
