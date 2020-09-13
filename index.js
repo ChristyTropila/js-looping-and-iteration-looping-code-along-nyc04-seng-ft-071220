@@ -7,3 +7,12 @@ function writeCards(name, giftType){
   }
   return thankYou;
 }
+
+function countDown(num){
+  let counter=0;
+while(count < num)
+counter -= 1;
+console.log(`num[counter]`);
+}
+
+
